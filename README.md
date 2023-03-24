@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: you can't blink and wink at the same time.
 -->
 ![alt text](https://github.com/foiryolo/foiryolo/blob/main/IMG_3438%202.HEIC "white matter")
-- did I get you with the fun fact?
+- I am a Physiology undergrad
+- I'm currently working on the multi-brain holder
+- fun fact: you can't blink and wink at the same time.
