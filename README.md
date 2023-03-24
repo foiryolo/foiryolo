@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - I am a Physiology undergrad
 - I'm currently working on the multi-brain holder
 - fun fact: you can't blink and wink at the same time.
+- memes and cup ramen expert
