@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - I'm currently working on the multi-brain holder
 - fun fact: you can't blink and wink at the same time.
 - memes and cup ramen expert
-![alt text](https://github.com/foiryolo/foiryolo/blob/main/KEYS%20Poster.pdf "KEYS Poster")
+![alt_text](https://github.com/foiryolo/foiryolo/blob/main/KEYS%20Poster.pdf "KEYS Poster")
