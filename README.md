@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: you can't blink and wink at the same time.
 -->
-![alt text](https://github.com/foiryolo/foiryolo/blob/main/IMG_3438%202.HEIC "white matter")
 - I am a Physiology undergrad
 - I'm currently working on the multi-brain holder
 - fun fact: you can't blink and wink at the same time.
 - memes and cup ramen expert
+
 ![alt_text](https://github.com/foiryolo/foiryolo/blob/main/KEYS%20Poster.pdf "KEYS Poster")
