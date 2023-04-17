@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - fun fact: you can't blink and wink at the same time.
 - memes and cup ramen expert
 
-![alt_text](https://github.com/foiryolo/foiryolo/blob/main/keys%20poster.png"KEYS Poster")
+![alt text](https://github.com/foiryolo/foiryolo/blob/main/keys%20poster.png"KEYS Poster")
