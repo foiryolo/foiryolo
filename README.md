@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 expert in ramenology and cheesecakeology. 
 --> 
 ![alt text](https://github.com/foiryolo/foiryolo/blob/main/keys%20poster.png "Keys poster")
+🔭 I’m currently working on the multi-brain holder inner segment
